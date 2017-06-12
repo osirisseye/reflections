@@ -22,3 +22,8 @@ Just like teh detached HEAD - commits are invisible for you, but visualising the
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a commit which has two parents - shares features of both of them and combines them together. It is represented by a commit with both parents indicating what we merged (often to a master branch) 
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging could break the logic behind the files and manual one seems to be the most efficient although time consuming
