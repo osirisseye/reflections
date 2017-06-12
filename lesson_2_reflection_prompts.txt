@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+to be able to monitor changes in this repo and further stage and commit any changed files
