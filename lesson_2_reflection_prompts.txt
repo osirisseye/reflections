@@ -2,11 +2,18 @@ What happens when you initialize a repository? Why do you need to do it?
 
 to be able to monitor changes in this repo and further stage and commit any changed files
 
+
 How can you use the staging area to make sure you have one commit per logical change?
 
 Before the commit - add to the staging area every component of a logical change
+
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If one logical change of the commit gives additional feature which may not be utilised in the final product or should be included as a separate part of the repository.
 Branches will make sure that additional feature can be developed separately without compromising the master branch code.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Just like teh detached HEAD - commits are invisible for you, but visualising them can clear up the logical sequence they are formed into.
