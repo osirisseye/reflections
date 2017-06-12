@@ -17,3 +17,8 @@ Branches will make sure that additional feature can be developed separately with
 How do the diagrams help you visualize the branch structure?
 
 Just like teh detached HEAD - commits are invisible for you, but visualising them can clear up the logical sequence they are formed into.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a commit which has two parents - shares features of both of them and combines them together. It is represented by a commit with both parents indicating what we merged (often to a master branch) 
