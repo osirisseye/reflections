@@ -18,3 +18,8 @@ Forks to store works of others conveniently accessible online, Clones to work on
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Able to see how big of a change is there since the last pull request. Given no changes on the original GitHub repo - it will be easier to solve any conflicts.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Making sure that everyone has their files and keep themupdated (master branch) woudl be a problem - not to mention size of any exchange to make sure everyone is at the smae page - thisis different for github (only 40kb)
