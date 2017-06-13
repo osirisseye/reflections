@@ -1,3 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Keep locally files that you currently work on. Separate working/public code from the code you have to work on.
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Able to see how big of a change is there since the last pull request. Given no changes on the original GitHub repo - it will be easier to solve any conflicts.
