@@ -23,3 +23,8 @@ Able to see how big of a change is there since the last pull request. Given no c
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Making sure that everyone has their files and keep themupdated (master branch) woudl be a problem - not to mention size of any exchange to make sure everyone is at the smae page - thisis different for github (only 40kb)
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+maksing sure that everything is working on the separate branch including fast forward pull form master to the tip of the branch can make merging with master branch a breeze.
